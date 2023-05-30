@@ -14,3 +14,5 @@ Project is developed on unity3D using C# and Consists of 7 scripts which is:
 
 # Addition Asset used
 In this project free asset are used from Asset Store for making game nice 3D look and also used music to make more enjoyable.
+
+# Apk file and screen recording is also added to repo
